@@ -1,0 +1,15 @@
+{
+	"description": "组件化开发",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "touristappid",
+	"projectname": "mini-book-2",
+	"miniprogramRoot": "dist/",
+	"condition": {}
+}
